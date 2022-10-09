@@ -2,3 +2,4 @@ hello daxiong! hello git!  333333333
 hello daxiong! hello git!
 hello daxiong! hello git!
 hello daxiong! hello git! master test
+hello daxiong! hello git! hot-fix test
